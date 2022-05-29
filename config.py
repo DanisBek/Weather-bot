@@ -1,2 +1,2 @@
-API = "e8007ae6742631ec424ab8742301d9d3"
-TOKEN = "5489985295:AAGKecyBIJkLApWugd4h4OlK6ULVJMXJB3I"
+API = "" # API Openweathermap
+TOKEN = "" # TOKEN telegram bot
